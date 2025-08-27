@@ -22,11 +22,11 @@ This is a simple Node.js + Express project for CRUD operations on books.
 
 \## How to run
 
-1\. Clone the repo  
+1\. Clone the repo
 
-2\. Run npm install  
+2\. Run npm install
 
-3\. Run node server.js  
+3\. Run node server.js
 
-4\. Open \[http://localhost:3000/books](http://localhost:3000/books) in browser
+4\. Open \[ http://localhost:3000/books ] ( http://localhost:3000/books ) in browser
 
